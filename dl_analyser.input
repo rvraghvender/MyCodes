@@ -1,0 +1,7 @@
+1
+STATIS
+
+
+The number at the first row indicates how many files to read.
+Please insert your trajectory files, one in each row.
+After that, any other information, remarks, etc will be ignored.

@@ -1,0 +1,6 @@
+#!/bin/bash
+
+mv CONFIG CONFIG-$1
+mv REVOLD REVOLD-$1
+mv REVIVE REVOLD
+mv REVCON CONFIG
